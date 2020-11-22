@@ -1,0 +1,25 @@
+PCE - Programa de Controle da Esquistossomose - Brasil
+População trabalhadaExamesPositivos% Positividade1 a  4 ovos5 a 16 ovos17 ou mais ovosA tratarTratadosASC - Ascaris lumbricoidesANC - AncilostomídeosTAE - Taenia spTT - Trichuris trichiuraEV - Enterobius vermicularisSS - Strongyloides stercoralisHN - Hymenolepis nanaOUT - OutrosContra indicaçãoRecusaAusênciaCaramujos capturadosBiomphalaria glabrata capturadBiomphalaria straminea capturBiomphalaria tenagophila captBiomphalaria glabrata positivBiomphalaria straminea positivBiomphalaria tenagophila posit por Unidade da Federação
+Período:2000
+"Unidade da Federação";"População_trabalhada";"Exames";"Positivos";"%_Positividade";"1_a__4_ovos";"5_a_16_ovos";"17_ou_mais_ovos";"A_tratar";"Tratados";"ASC_-_Ascaris_lumbricoides";"ANC_-_Ancilostomídeos";"TAE_-_Taenia_sp";"TT_-_Trichuris_trichiura";"EV_-_Enterobius_vermicularis";"SS_-_Strongyloides_stercoralis";"HN_-_Hymenolepis_nana";"OUT_-_Outros";"Contra_indicação";"Recusa";"Ausência";"Caramujos_capturados";"Biomphalaria_glabrata_capturad";"Biomphalaria_straminea_captur";"Biomphalaria_tenagophila_capt";"Biomphalaria_glabrata_positiv";"Biomphalaria_straminea_positiv";"Biomphalaria_tenagophila_posit"
+"11 Rondônia";407;407;312;76,66;306;6;-;312;312;264;185;89;12;1;4;-;19;-;-;-;-;-;-;-;-;-;-
+"15 Pará";145417;87592;734;0,84;569;145;20;734;709;16795;15234;56;11933;549;17;22;7;20;-;5;-;-;-;-;-;-;-
+"21 Maranhão";128968;122487;6415;5,24;4463;1596;356;7137;5921;72714;38386;495;17216;944;66;86;388;101;4;393;4004;4004;-;-;2284;-;-
+"22 Piauí";5107;5107;-;-;-;-;-;-;-;97;6;6;15;9;1;9;35;-;-;-;29;-;29;-;-;-;-
+"23 Ceará";135500;94058;1297;1,38;1062;182;53;1328;1229;12408;17582;760;5134;561;46;331;17;51;1;15;-;-;-;-;-;-;-
+"24 Rio Grande do Norte";63018;54651;3353;6,14;2951;361;41;3353;2831;14570;816;44;11756;82;2;17;92;222;2;289;-;-;-;-;-;-;-
+"25 Paraíba";97516;90516;7254;8,01;5328;1392;534;18234;15445;19261;21506;264;14609;322;3;57;7;1565;138;1088;2564;-;-;-;-;-;-
+"26 Pernambuco";80;80;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"27 Alagoas";186348;137349;17230;12,54;11766;4236;1228;17560;13684;41553;26694;385;25706;440;29;854;678;1287;18;2509;6343;1860;42;-;-;-;-
+"28 Sergipe";52471;44273;6238;14,09;2783;1964;506;6378;5383;16614;4451;275;1790;1323;130;225;268;327;10;656;437;435;-;-;45;-;-
+"29 Bahia";45759;37031;2237;6,04;1380;608;225;2237;2074;3482;315;82;555;117;-;57;887;75;-;86;-;-;-;-;-;-;-
+"31 Minas Gerais";303343;239719;19524;8,14;12844;4636;2041;20047;17784;23878;12110;1653;5942;1382;16;372;724;837;62;1391;-;-;-;-;-;-;-
+"32 Espírito Santo";21304;16054;418;2,60;331;61;26;419;388;1161;1297;30;277;52;4;5;1;13;2;9;-;-;-;-;-;-;-
+"35 São Paulo";17546;17546;1258;7,17;-;-;-;1258;1289;-;-;-;-;-;-;-;-;-;-;-;128358;1858;3083;109618;-;40;424
+"41 Paraná";3110;2570;79;3,07;33;17;29;79;70;291;78;4;163;10;-;45;1;7;-;-;7278;4538;232;61;-;-;-
+"42 Santa Catarina";6;6;2;33,33;2;-;-;2;2;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"52 Goiás";15;15;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"53 Distrito Federal";489;453;104;22,96;42;61;1;104;102;9;21;1;4;2;1;6;-;2;-;-;-;-;-;-;-;-;-
+"Total";1206404;949914;66455;7,00;43860;15265;5060;79182;67223;223098;138681;4144;95112;5794;319;2086;3124;4507;237;6441;149013;12695;3386;109679;2329;40;424
+ Fonte: MS/SVS/GT PCE
+ Nota: As informações são apresentadas somente para as Unidades da Federação endêmicas nos períodos em que foram realizados inquéritos pelo PCE.
